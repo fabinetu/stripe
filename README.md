@@ -40,5 +40,5 @@ Pentru a putea vedea comenzile confirmate prin notice este necesara creearea une
 7. Creati un webhook nou si selectati: la Event: Order Creation, Format: JSON, URL: url-ul tocmai copiat la punctul 6, Webhook API versions: oricare scrie latest. In final apasati Save.
 ![Webhook!](/images/ss_6.png "Webhook")
 
-### 3. Testati fluxul.
-Creati o comanda si verificati ca ati primit notificarea conform sablonului configurat la capitolul 1. Raspundeti la mesaj cu un cuvant cheie setat in capitolul 2.5
+### 4. Testati fluxul.
+Creati o comanda si verificati ca ati primit notificarea conform sablonului configurat la capitolul 1. Raspundeti la mesaj cu un cuvant cheie setat in capitolul 3.5
