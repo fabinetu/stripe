@@ -22,6 +22,7 @@ Pentru a putea vedea comenzile confirmate prin notice este necesara creearea une
 5. App name poate fi orice nume si se apasa create
 6. Se merge la "Configure  Admin API scopes"
 7. Se selecteaza urmatoarele permisiuni la ambele sectiuni de orders: write_orders si read_orders si salveaza selectia.
+
 ![Permisiuni!](/images/ss_4.png "Permisiuni")
 8. In final se apasa butonul install app.
 9. Se apasa butonul "Reveal token once" si se copiaza in notepad sau orice editor de text.
