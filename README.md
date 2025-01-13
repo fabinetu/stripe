@@ -28,7 +28,7 @@ Pentru a putea vedea comenzile confirmate prin notice este necesara creearea une
 ![Token!](/images/ss_5.png "Token")
 10. In acelasi editor unde a fost copiat acel token, se adauga numele magazinului, care poate fi copiat din URL-ul in care va aflati. Numele este: https://admin.shopify.com/store/{nume_magazin}/settings/ -> copiati {nume_magazin}
 
-## 2. Conectarea finala in aplicatia Notice
+## 3. Conectarea finala in aplicatia Notice
 
 1. Accesati contul notice [aici](https://app.notice.ro "Cont Notice").
 2. Mergeti la integrare API si bifati Integrare Comenzi Shopify
