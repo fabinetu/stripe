@@ -28,7 +28,7 @@ Pentru a putea vedea comenzile confirmate prin notice este necesara creearea une
 ![Token!](/images/ss_5.png "Token")
 10. In acelasi editor unde a fost copiat acel token, se adauga numele magazinului, care poate fi copiat din URL-ul in care va aflati. Numele este: https://admin.shopify.com/store/{nume_magazin}/settings/ -> copiati {nume_magazin}
 
-## 2. Conectarea finala in aplicatia Notice
+## 3. Conectarea finala in aplicatia Notice
 
 1. Accesati contul notice [aici](https://app.notice.ro "Cont Notice").
 2. Mergeti la integrare API si bifati Integrare Comenzi Shopify
@@ -40,5 +40,5 @@ Pentru a putea vedea comenzile confirmate prin notice este necesara creearea une
 7. Creati un webhook nou si selectati: la Event: Order Creation, Format: JSON, URL: url-ul tocmai copiat la punctul 6, Webhook API versions: oricare scrie latest. In final apasati Save.
 ![Webhook!](/images/ss_6.png "Webhook")
 
-### 3. Testati fluxul.
-Creati o comanda si verificati ca ati primit notificarea conform sablonului configurat la capitolul 1. Raspundeti la mesaj cu un cuvant cheie setat in capitolul 2.5
+### 4. Testati fluxul.
+Creati o comanda si verificati ca ati primit notificarea conform sablonului configurat la capitolul 1. Raspundeti la mesaj cu un cuvant cheie setat in capitolul 3.5
